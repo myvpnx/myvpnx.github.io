@@ -1,3 +1,5 @@
+<!doctype html>
+<html dir="rtl" lang="fa-IR">
 <head>
  <meta charset="utf-8">
 </head>
@@ -22,3 +24,5 @@
 ________________________________________
 
 Contact Us → [Telegram](http://t.me/fastfixgsm) & [Gmail](mailto:gfix4600@gmail.com)   
+
+</html>
