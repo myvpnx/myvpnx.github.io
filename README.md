@@ -18,7 +18,14 @@ _____________________________________________________
 
 ![alt text](myvpn/my3.jpg "Title")<small>
 
-
+*   Abacus
+    * answer
+*   Bubbles
+    1.  bunk
+    2.  bupkis
+        * BELITTLER
+    3. burper
+*   Cunning
 ________________________________________
 
 Contact Us → [Telegram](http://t.me/fastfixgsm) & [Gmail](mailto:gfix4600@gmail.com)   
