@@ -4,6 +4,7 @@
 
  **2 _ My vpn 1.9** → [Windows](http://uplnk.com/f/f99ba404/my_vpn.windows.zip)
 
+_____________________________________________________
 
 ابتدا برنامه رو از لینک بالا با فیلتر شکن خاموش دانلود و نصب میکنیم
 
@@ -13,9 +14,9 @@
 
 ![alt text](myvpn/my1.jpg "Title")<small>
 
-![alt text](myvpn/my2.jpg "Title")
+![alt text](myvpn/my2.jpg "Title")<small>
 
-![alt text](myvpn/my3.jpg "Title")
+![alt text](myvpn/my3.jpg "Title")<small>
 
 
 ________________________________________
