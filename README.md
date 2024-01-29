@@ -7,6 +7,6 @@
 پس از دانلود و نصب برنامه برنامه رو اجرا میکنیم.
 
 با وارد کردن نام کاربری و رمز عبور خریداری شده وارد برنامه میشویم و با انتخاب یکی از سرور های موجود متصل میشویم.
-![alt text](/path/to/my1.jpg "Title")
-![alt text](/path/to/my2jpg "Title")
-![alt text](/path/to/my3.jpg "Title")
+![alt text](myvpn/my1.jpg "Title")
+![alt text](myvpn/my2.jpg "Title")
+![alt text](myvpn/my3.jpg "Title")
