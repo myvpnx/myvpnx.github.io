@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html dir="rtl" lang="fa-IR">
 <head>
  <meta charset="utf-8">
