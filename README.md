@@ -22,4 +22,4 @@ _____________________________________________________
 
 ________________________________________
 
-Contact Us → [Telegram](http://t.me/fastfixgsm) & [karajfix@gmail.com](mailto:gfix4600@gmail.com)   
+Contact Us → [Telegram](http://t.me/fastfixgsm) & [gfix4600@gmail.com](mailto:gfix4600@gmail.com)   
