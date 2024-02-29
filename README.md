@@ -29,7 +29,6 @@ _____________________________________________________
 
 ![alt text](https://github.com/mostafacpr/Myvpn/assets/120664716/65dbe61b-9ecc-476b-872e-da01b169e9fe "Title")<small>
 
-![my4](https://github.com/mostafacpr/Myvpn/assets/120664716/65dbe61b-9ecc-476b-872e-da01b169e9fe)
 
 ________________________________________
 
