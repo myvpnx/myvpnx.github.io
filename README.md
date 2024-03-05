@@ -2,7 +2,7 @@
 
 🟢 [**Android New version**](https://www.mediafire.com/file/kjiwtrv1nk8xwe3/io.github.segas.myvpn-v2.2-38-release.apk/file) 
 
-short.gfix4600.workers.dev/bJFFnz
+short.gfix4600.workers.dev/AnsatG
 
  [old veraion](https://www.mediafire.com/file/tkjuj75v8gh8s5q/MY+VPN+1.9.0.apk/file)
 
