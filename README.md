@@ -1,10 +1,10 @@
 
 
-🟢 [**Android New version**](https://www.mediafire.com/file/6txljff35ewwfdm/io.github.segas.myvpn-v2.29-40-release.apk/file) 
+🟢 [**آندروید ورژن جدید**](https://www.mediafire.com/file/6txljff35ewwfdm/io.github.segas.myvpn-v2.29-40-release.apk/file) 
 
 
 
- [old veraion](https://www.mediafire.com/file/tkjuj75v8gh8s5q/MY+VPN+1.9.0.apk/file)
+ [ورژن قدیمی](https://www.mediafire.com/file/tkjuj75v8gh8s5q/MY+VPN+1.9.0.apk/file)
 
 
 🟢 [**Windows**](http://uplnk.com/f/f99ba404/my_vpn.windows.zip)
