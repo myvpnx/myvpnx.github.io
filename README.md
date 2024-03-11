@@ -1,6 +1,6 @@
 
 
-🟢 [**دانلود آندروید نسخه جدید کلیک کنید**](https://drive.google.com/file/d/1CjTMtHT0zTzZ25PzbDZiLc18wUMFsAj5/view?usp=sharing) 
+🟢 [**دانلود آندروید نسخه جدید کلیک کنید**](https://drive.google.com/uc?export=download&id=1CjTMtHT0zTzZ25PzbDZiLc18wUMFsAj5) 
 
 
 
