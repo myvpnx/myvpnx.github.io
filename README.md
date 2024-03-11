@@ -1,6 +1,6 @@
 
 
-🟢 [**دانلود آندروید نسخه جدید کلیک کنید**](https://www.mediafire.com/file/6txljff35ewwfdm/io.github.segas.myvpn-v2.29-40-release.apk/file) 
+🟢 [**دانلود آندروید نسخه جدید کلیک کنید**](https://drive.google.com/file/d/1CjTMtHT0zTzZ25PzbDZiLc18wUMFsAj5/view?usp=sharing) 
 
 
 
