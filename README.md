@@ -31,13 +31,13 @@ _____________________________________________________
 
 ---
 
-[OpenConnect](https://s9.uupload.ir/files/hassantechno/Android/OpenConnect/OpenConnect(armeabi-v7a).apk)
+[OpenConnect برنامه](https://s9.uupload.ir/files/hassantechno/Android/OpenConnect/OpenConnect(armeabi-v7a).apk)
 
 ( [OpenVpn برنامه](https://s9.uupload.ir/files/hassantechno/Android/OpenVpn/OpenVpn(armeabi-v7a).apk) ) [Servers فایل ها](https://my.uupload.ir/f/hassantechno/s)
 
-[Sstp](https://s15.uupload.ir/files/hassantechno/Android/SSTP%20Max.apk)
+[Sstp برنامه](https://s15.uupload.ir/files/hassantechno/Android/SSTP%20Max.apk)
 
-[StrongSwan Ikev](https://s31.uupload.ir/files/hassantechno/org.strongswan.android.apk)
+[StrongSwan Ikev برنامه](https://s31.uupload.ir/files/hassantechno/org.strongswan.android.apk)
 
 
 
