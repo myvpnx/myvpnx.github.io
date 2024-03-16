@@ -33,7 +33,7 @@ _____________________________________________________
 
 [OpenConnect](https://s9.uupload.ir/files/hassantechno/Android/OpenConnect/OpenConnect(armeabi-v7a).apk)
 
-[OpenVpn](https://s9.uupload.ir/files/hassantechno/Android/OpenVpn/OpenVpn(armeabi-v7a).apk) [Servers File](https://my.uupload.ir/f/hassantechno/s)
+( [OpenVpn برنامه](https://s9.uupload.ir/files/hassantechno/Android/OpenVpn/OpenVpn(armeabi-v7a).apk) ) [Servers فایل ها](https://my.uupload.ir/f/hassantechno/s)
 
 [Sstp](https://s15.uupload.ir/files/hassantechno/Android/SSTP%20Max.apk)
 
