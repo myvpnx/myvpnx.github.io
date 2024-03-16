@@ -1,10 +1,8 @@
 
 
-🟢 [**دانلود آندروید نسخه جدید کلیک کنید**](https://drive.google.com/uc?export=download&id=11cJix1IfN6_XsI1-kiovHOK2Isi7IH7B) 
+🟢 [**دانلود برنامه آندروید  کلیک کنید**](https://drive.google.com/uc?export=download&id=11cJix1IfN6_XsI1-kiovHOK2Isi7IH7B) 
 
 
-
- [نسخه قدیمی](https://www.mediafire.com/file/tkjuj75v8gh8s5q/MY+VPN+1.9.0.apk/file)
 
 
 🟢 [**Windows**](http://uplnk.com/f/f99ba404/my_vpn.windows.zip)
