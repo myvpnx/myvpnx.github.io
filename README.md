@@ -30,14 +30,9 @@ _____________________________________________________
 ![alt text](myvpn/my4.jpg "Title")<small>
 
 ---
+| [iKev اتصال با](ikev.md) | [L2tp اتصال با](L2tp.md)| Column | Column |
+| ------ | ------ | ------ | ------ |
 
-[OpenConnect برنامه](https://s9.uupload.ir/files/hassantechno/Android/OpenConnect/OpenConnect(armeabi-v7a).apk)
-
-( [OpenVpn برنامه](https://s9.uupload.ir/files/hassantechno/Android/OpenVpn/OpenVpn(armeabi-v7a).apk) ) [Servers فایل ها](https://my.uupload.ir/f/hassantechno/s)
-
-[Sstp برنامه](https://s15.uupload.ir/files/hassantechno/Android/SSTP%20Max.apk)
-
-[StrongSwan Ikev برنامه](https://s31.uupload.ir/files/hassantechno/org.strongswan.android.apk)
 
 
 
