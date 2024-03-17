@@ -1,6 +1,7 @@
 **Open connect اتصال با**
 ---
 آدرس سرورها فقط برای خط ایرانسل
+
  (برای اتصال تیک pfs را در نرم افزار open connect حتما روشن کنید) 
  
 [**Android برنامه**](https://my.uupload.ir/dl/dxVmrv5r)
