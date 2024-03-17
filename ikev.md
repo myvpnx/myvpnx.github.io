@@ -10,9 +10,14 @@
 
 
 ik1.gsmxr.net                     انگلیس 
+
 ik2.gsmxr.net                        آلمان 
+
 ik3.gsmxr.net                      امارات 
+
 ik4.gsmxr.net                     لهستان
+
 ik5.gsmxr.net                       سوئد
+
 ik6.gsmxr.net                       سوئد
 
