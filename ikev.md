@@ -9,15 +9,15 @@
 ⭕️⭕️بهترین سرویس پیشنهادی آیفون و ویندوز 
 
 
-ik1.gsmxr.net                       انگلیس 
+ik1.gsmxr.net                     
 
-ik2.gsmxr.net                        آلمان 
+ik2.gsmxr.net                     
 
-ik3.gsmxr.net                       امارات 
+ik3.gsmxr.net                      
 
-ik4.gsmxr.net                       لهستان
+ik4.gsmxr.net                      
 
-ik5.gsmxr.net                        سوئد
+ik5.gsmxr.net                        
 
-ik6.gsmxr.net                        سوئد
+ik6.gsmxr.net                       
 
