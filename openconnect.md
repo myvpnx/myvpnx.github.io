@@ -5,7 +5,7 @@
  pfs تیک گزینه پی اف اس حتما در برنامه روشن باشد
  
  
-[**Android برنامه**](https://my.uupload.ir/dl/dxVmrv5r) -
+[**Android برنامه**](https://my.uupload.ir/dl/dxVmrv5r) 
 
 [**ios برنامه**](https://apps.apple.com/us/app/cisco-secure-client/id1135064690)
 
