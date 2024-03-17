@@ -27,9 +27,13 @@ Cell6.gsmxr.net
 Cell7.gsmxr.net
 
 Cell8.gsmxr.net
+
+Cell9.gsmxr.net
+
  ---
+ 
 
  [( آموزش آندروید)](https://sites.google.com/view/openconnect/home)
 
 
-Cell9.gsmxr.net
+
