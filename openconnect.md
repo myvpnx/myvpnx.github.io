@@ -7,8 +7,6 @@
  
 [**Android برنامه**](https://my.uupload.ir/dl/dxVmrv5r) -
 
-[( آموزش)](https://sites.google.com/view/openconnect/home)
-
 [**ios برنامه**](https://apps.apple.com/us/app/cisco-secure-client/id1135064690)
 
 [**Windows برنامه**](https://my.uupload.ir/dl/kjgxYnVv)
@@ -29,5 +27,9 @@ Cell6.gsmxr.net
 Cell7.gsmxr.net
 
 Cell8.gsmxr.net
+ ---
+
+ [( آموزش آندروید)](https://sites.google.com/view/openconnect/home)
+
 
 Cell9.gsmxr.net
