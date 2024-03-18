@@ -39,5 +39,5 @@ Cell9.gsmxr.net
 
 ![3](https://github.com/mostafacpr/Myvpn/assets/120664716/32752831-4a2c-4e73-aa87-466b72d85e36)
 
-![4](https://github.com/mostafacpr/Myvpn/assets/120664716/4ff93d4c-1e63-4adb-b5cd-91925bb94f71)
+
 
