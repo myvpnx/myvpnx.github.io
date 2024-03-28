@@ -1,8 +1,8 @@
 
 
-🟢 [**Android دانلود برنامه هوشمند کلیک کنید**](https://drive.google.com/uc?export=download&id=11cJix1IfN6_XsI1-kiovHOK2Isi7IH7B) 
+🟢 [**Android دانلود برنامه هوشمند کلیک کنید**](http://cds.goldgsm.in:8077/UploadFolder/io.github.segas.myvpn-v2.40-42-release.apk) 
 
-
+پس از دانلود نصب و با نام کاربری و رمز عبور دریافتی به برنامه وارد شوید .
 
 
 🟢 [**Windows**](http://uplnk.com/f/f99ba404/my_vpn.windows.zip)
