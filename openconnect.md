@@ -42,10 +42,15 @@ Cell9.gsmxr.net
 
 سرورهای Open Connect و Cisco AnyConnect در سرویس VIP
 تمام اینترنت
+
 mu1.gsmxr.net تا mu26.gsmxr.net 
+
 ——————————————————
+
 ci1.goldgsm.in تا ci5.goldgsm.in
+
 ——————————————————
+
 (fr.gsmvpx.in) فرانسه 
 
 (en.gsmvpx.in) انگلیس 
@@ -75,8 +80,9 @@ ci1.goldgsm.in تا ci5.goldgsm.in
 (uae.gsmvpx.in) امارات 
 
 (pol.gsmvpx.in) لهستان
-هستان
+
 (irq.gsmvpx.in) عراق
+
 ——————————————————
 ایرانسل
 cell.gsmxr.net تا cell9.gsmxr.net (VIP)
