@@ -47,26 +47,46 @@ mu1.gsmxr.net تا mu26.gsmxr.net
 ci1.goldgsm.in تا ci5.goldgsm.in
 ——————————————————
 (fr.gsmvpx.in) فرانسه 
+
 (en.gsmvpx.in) انگلیس 
+
 (ge.gsmvpx.in) آلمان 
+
 (tr.gsmvpx.in) ترکیه 
+
 (sw.gsmvpx.in) سوئد 
+
 (Swi.gsmvpx.in) سوئیس 
+
 (at1.gsmvpx.in) اتریش 
+
 (sp.gsmvpx.in) اسپانیا 
+
 (ca.gsmvpx.in) کانادا 
+
 (pt.gsmvpx.in) پرتغال 
+
 (us.gsmvpx.in) آمریکا 
+
 (nl.gsmvpx.in) هلند 
+
 (fl.gsmvpx.in) فنلاند 
+
 (uae.gsmvpx.in) امارات 
+
 (pol.gsmvpx.in) لهستان
+هستان
 (irq.gsmvpx.in) عراق
 ——————————————————
 ایرانسل
 cell.gsmxr.net تا cell9.gsmxr.net (VIP)
+
 ——————————————————-
+
 opc1.goldgsm.in تا opc4.goldgsm.in (VIP+سرویس اقتصادی)
+
 ——————————————————-
+
 opc1.gsmxssh.com تا opc4.gsmxssh.com (سرویس اقتصادی)
+
 ——————————————————-
