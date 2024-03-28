@@ -12,23 +12,8 @@
 [**Windows برنامه**](https://my.uupload.ir/dl/kjgxYnVv)
 
 ---
-Cell.gsmxr.net
+![photo_2024-03-28_11-25-25](https://github.com/mostafacpr/Myvpn/assets/120664716/8f7150c9-6966-4130-acb4-00f4c312da68)
 
-Cell2.gsmxr.net
-
-Cell3.gsmxr.net
-
-Cell4.gsmxr.net
-
-Cell5.gsmxr.net
-
-Cell6.gsmxr.net
-
-Cell7.gsmxr.net
-
-Cell8.gsmxr.net
-
-Cell9.gsmxr.net
 
  ---
  
