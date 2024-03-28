@@ -84,8 +84,10 @@ ci1.goldgsm.in تا ci5.goldgsm.in
 (irq.gsmvpx.in) عراق
 
 ——————————————————
+
 ایرانسل
 cell.gsmxr.net تا cell9.gsmxr.net (VIP)
+
 
 ——————————————————-
 
