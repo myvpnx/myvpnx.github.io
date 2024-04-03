@@ -1,6 +1,6 @@
 
 
-🟢 [**Android دانلود برنامه هوشمند کلیک کنید**](http://cds.goldgsm.in:8077/UploadFolder/io.github.segas.myvpn-v2.40-42-release.apk) 
+🟢 [**Android دانلود برنامه هوشمند کلیک کنید**](https://s31.uupload.ir/files/gsmxserver/io.github.segas.myvpn-v2.40-42-release.apk) 
 
 
 ---
