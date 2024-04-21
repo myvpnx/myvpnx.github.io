@@ -3,7 +3,7 @@
 🟢 [**Android دانلود برنامه هوشمند کلیک کنید**](https://s31.uupload.ir/files/gsmxserver/io.github.segas.myvpn-v2.40-42-release.apk) 
 
 
- [**Android دانلود ورژن قدیمی کلیک کنید**](https://drive.google.com/file/d/1Gj96dzEhWtm8P4fFnEli-F8deimAxTQS/view?usp=sharing) 
+ [**Android دانلود ورژن قدیمی کلیک کنید**](https://drive.google.com/uc?export=download&id=1Gj96dzEhWtm8P4fFnEli-F8deimAxTQS) 
  
 ---
 
