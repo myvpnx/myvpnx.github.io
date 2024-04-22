@@ -2,6 +2,7 @@
 
 🟢 [**Android دانلود برنامه هوشمند کلیک کنید**](https://drive.google.com/uc?export=download&id=13YKsWmc-BLQM7PQOOAKzvvJ3MFtM7Ks6) 
 
+---
 
  [Android دانلود ورژن قدیمی کلیک کنید](https://drive.google.com/uc?export=download&id=1Gj96dzEhWtm8P4fFnEli-F8deimAxTQS) 
  
