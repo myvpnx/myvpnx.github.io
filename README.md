@@ -4,7 +4,7 @@
 
 ---
 
- [Android دانلود ورژن قدیمی کلیک کنید](https://drive.google.com/uc?export=download&id=1Gj96dzEhWtm8P4fFnEli-F8deimAxTQS) 
+ [Android  ورژن قدیمی](https://drive.google.com/uc?export=download&id=1Gj96dzEhWtm8P4fFnEli-F8deimAxTQS) 
  
 ---
 
