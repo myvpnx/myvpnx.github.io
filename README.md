@@ -1,6 +1,6 @@
 
 
-🟢 [**Android دانلود برنامه هوشمند کلیک کنید**](https://my.uupload.ir/dl/kjgNLx1p) - [link2](https://www.mediafire.com/file/aah7t8cbats5q6x/io.github.segas.myvpn-v2.65-49-release+(1).apk/file)
+🟢 [**Android دانلود برنامه هوشمند کلیک کنید**](https://my.uupload.ir/dl/BvmraYQp) - [link2](https://www.mediafire.com/file/1xengglmo53tf4d/io.github.segas.myvpn-v2.67-51-release.apk/file)
 
 ---
 
