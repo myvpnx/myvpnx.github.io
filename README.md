@@ -8,7 +8,7 @@
  
 ---
 
-🟢 [**Windows**](https://drive.google.com/file/d/19r3qO1on-Qm8LmMH2r3UyCCNu9g4L8kf/view?usp=sharing)
+🟢 [**Windows**](https://drive.google.com/file/d/19r3qO1on-Qm8LmMH2r3UyCCNu9g4L8kf/view?usp=sharing) - [link2](https://drive.usercontent.google.com/download?id=19r3qO1on-Qm8LmMH2r3UyCCNu9g4L8kf&export=download&authuser=0)
 
 _____________________________________________________
 
