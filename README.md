@@ -1,3 +1,34 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>وب‌سایت موبایل مصطفی</title>
+    <style>
+        .header {
+            text-align: center;
+            background-color: #f2f2f2;
+            padding: 10px;
+            font-size: 1.2em;
+        }
+        .header .brand {
+            font-size: 1.5em;
+            color: #6a0dad; /* رنگ بنفش برای تمایز */
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <span class="brand">موبایل مصطفی</span><br>
+    کلیه خدمات تلفن همراه - 09354811944
+</div>
+
+<!-- سایر محتوای صفحه شما اینجا قرار می‌گیرد -->
+
+</body>
+</html>
 
 
 🟢 [**Android دانلود برنامه هوشمند کلیک کنید**](https://my.uupload.ir/dl/BvmraYQp) - [link2](https://www.mediafire.com/file/1xengglmo53tf4d/io.github.segas.myvpn-v2.67-51-release.apk/file)
