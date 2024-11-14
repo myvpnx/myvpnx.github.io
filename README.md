@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="fa">
 <head>
     <meta charset="UTF-8">
@@ -13,7 +13,7 @@
         }
         .header .brand {
             font-size: 1.5em;
-            color: #6a0dad; /* رنگ بنفش برای تمایز */
+            color: #28a745; /* رنگ سبز برای تمایز */
             font-weight: bold;
         }
     </style>
@@ -29,7 +29,7 @@
 
 </body>
 </html>
-
+---
 
 🟢 [**Android دانلود برنامه هوشمند کلیک کنید**](https://my.uupload.ir/dl/BvmraYQp) - [link2](https://www.mediafire.com/file/1xengglmo53tf4d/io.github.segas.myvpn-v2.67-51-release.apk/file)
 
