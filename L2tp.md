@@ -2,20 +2,25 @@
 ---
 **l2tp /pptp /sstp آپدیت سرورهای**
 
+SSTP | PPTP | L2TP
+------------------------------
+l2tp.gsmxr.net
+تا
+l7tp.gsmxr.net
+-----------------------------
 ser1.gsmxr.net
-
-ser2.gsmxr.net
-
-ser3.gsmxr.net
-
-ser4.gsmxr.net
-
-ser5.gsmxr.net
-
+تا
 ser6.gsmxr.net
-
-L2tp.gsmxr.net
-
-L3tp.gsmxr.net
-
-L4tp.gsmxr.net
+-----------------------------
+سرور های ثابت پروتکل 
+SSTP | PPTP | L2TP
+-------------------------------
+ser1.gsmxr.net  🇳🇱 هلند
+ser5.gsmxr.net  🇩🇪 آلمان
+ser10.gsmxr.net  🇸🇪 سوئد
+sh2.gsmvpx.com  🇫🇷 فرانسه
+ca.gsmvpx.com  🇨🇦 کانادا
+usa.gsmvpx.com  🇺🇸 آمریکا
+uae.gsmvpx.com  🇦🇪 امارات
+tcppol.gsmxr.net  🇵🇱 لهستان
+tr.gsmxr.net  🇹🇷 ترکیه
