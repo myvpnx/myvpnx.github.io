@@ -11,6 +11,6 @@
 ---
 [**Server دانلود تفکیک شده سرورها**](https://my.uupload.ir/d/xxjGR)
 
-[**Server  دانلود یکجا سروره نیاز با استخراج دارد**](https://my.uupload.ir/dl/OD12NjWZ)
+[**Server  دانلود یکجا سروره نیاز با استخراج دارد**](https://my.uupload.ir/dl/2K5BKg9x)
 
 
