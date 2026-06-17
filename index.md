@@ -1,7 +1,7 @@
 
-# 📥 دانلود برنامه Connectix
+# 
+## 📥 دانلود برنامه  📱 Android (اندروید) 
 
-## 📱 Android (اندروید)
 
 ✅ [دانلود نسخه 2.7.2 نسخه عمومی ](https://apps.irancdn.org/android/connectix-2.7.2+119-universal.apk)
 
