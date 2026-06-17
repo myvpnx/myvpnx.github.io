@@ -67,12 +67,5 @@
 
 📢 در صورت بروز شرایط خاص و محدودیت‌های اینترنت، هر دو سرویس پشتیبانی شده و کانکشن‌های مورد نیاز برای حفظ پایداری سرویس اضافه خواهند شد.
 
----
-
-
-## 📞 ارتباط با ما
-📨 <a href="https://coxvpn.blogix.ir"> وبلاگ </a>
-
-📨 <a href="https://t.me/fastfixgsm">Telegram</a>
 
 ✉️ <a href="mailto:gfix4600@gmail.com">Email</a>
